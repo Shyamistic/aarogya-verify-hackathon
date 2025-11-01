@@ -1,0 +1,11 @@
+streamlit 
+pandas 
+crewai 
+crewai-tools 
+flask 
+gunicorn 
+PyMuPDF 
+pytesseract 
+opencv-python-headless 
+openai 
+requests
